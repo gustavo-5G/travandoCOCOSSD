@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(161, 152, 152);
+    background-color: white;
     background-position: center;
     text-align: center;
 }
@@ -20,8 +20,5 @@ body {
 canvas {
     box-shadow: 10px 10px 10px black;
     border-radius: 10px;
-    margin-top: 40px;
-}
-#span{
-    text-align: center;
+    margin-top: 107px;
 }
